@@ -5,7 +5,7 @@ I work on computational mathematics, uncertainty quantification and scientific m
 Always hunger for new problems.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=vavrines)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact)
 
 <!---
 - 📫 https://xiaotianbai.com
