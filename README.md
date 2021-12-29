@@ -1,7 +1,6 @@
 ### Guten Tag 🎴
 
 This is Tianbai.
-I know very little about anything.
 I'm working to create pieces in computational physics, programming and fine arts.
 
 Topics:
