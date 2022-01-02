@@ -10,10 +10,10 @@ Topics here:
 - Julialang
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vavrines&theme=vue" alt="drawing" width="550"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vavrines&theme=vue" alt="drawing" width="500"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact&theme=vue" alt="drawing" width="330"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact&theme=vue" alt="drawing" width="300"/>
 </a>
 
 <!---
