@@ -1,4 +1,6 @@
-### Guten Tag 🎴
+<div align="center">
+  <img src="assets/shibainu_run.gif" alt="drawing" width="100"/>
+</div>
 
 This is Tianbai.
 I'm working to create pieces in computational physics, programming and fine arts. I'm an enthusiast of Debussy. Sometimes I do photography.
