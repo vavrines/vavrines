@@ -2,14 +2,7 @@
   <img src="assets/shibainu_run.gif" alt="drawing" width="100"/>
 </div>
 
-This is Tianbai.
-I'm working to create pieces in computational physics, programming and fine arts. I'm an enthusiast of Debussy. Sometimes I do photography.
-
-Topics here:
-- numerical PDE
-- scientific machine learning
-- uncertainty quantification
-- Julialang
+Topics: PDE | CFD | Scientific ML | Uncertainty Quantification | Julia
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vavrines&theme=vue" alt="drawing" width="500"/>
