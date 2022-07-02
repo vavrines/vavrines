@@ -1,8 +1,10 @@
 <div align="center">
   <img src="assets/shibainu_run.gif" alt="drawing" width="100"/>
+  
+  Topics: PDE | CFD | Scientific ML | Uncertainty Quantification | Julia
 </div>
 
-Topics: PDE | CFD | Scientific ML | Uncertainty Quantification | Julia
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vavrines&theme=vue" alt="drawing" width="500"/>
