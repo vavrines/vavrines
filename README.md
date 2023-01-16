@@ -5,13 +5,13 @@
 </div>
 
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vavrines&theme=vue" alt="drawing" width="500"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact&theme=vue&langs_count=6&hide=jupyter%20notebook,html,scss" alt="drawing" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact&theme=vue&langs_count=6&hide=jupyter%20notebook,html" alt="drawing" width="300"/>
 </a>
+
 
 <!---
 - 📫 https://xiaotianbai.com
@@ -21,4 +21,3 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=vavrines&theme=vue)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vavrines&layout=compact&theme=vue)
 -->
-
